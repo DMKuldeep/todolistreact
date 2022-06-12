@@ -83,6 +83,8 @@ const App = () => {
           />
           <button type="submit"> submit</button>
 
+          <input name="requiredField"></input>
+
           <button style={{ float: "center" }} onClick={remove}>
             Reset
           </button>
